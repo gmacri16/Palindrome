@@ -1,0 +1,4 @@
+Gregory Macri
+1. When you execute the statement p = &c, what you are doing is making the 
+pointer p point to the address of the variable c in memory.
+2.With the first function you are passing through the arguments in a non-destructive form. This is because the variables in the function are copies of the original values, and so the original values will not change. 
